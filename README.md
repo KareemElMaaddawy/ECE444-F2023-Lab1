@@ -10,5 +10,13 @@ This repo is a clone of [https://github.com/miguelgrinberg/flasky](https://githu
 <img width="1074" alt="Activity 3" src="https://github.com/KareemElMaaddawy/ECE444-F2023-Lab1/assets/83250816/e3768e8a-9953-4fde-89e5-2a31e7832fdf">
 
 # Activity 4
-<img width="1336" alt="Example 4-7" src="https://github.com/KareemElMaaddawy/ECE444-F2023-Lab1/assets/83250816/085f796c-f2a8-4829-81ac-ef35bdbf551b">
+<img width="1304" alt="Activity4 (Q2)" src="https://github.com/KareemElMaaddawy/ECE444-F2023-Lab1/assets/83250816/ba8f0078-9442-43d7-a5e2-34f8b60159f2">
+
+<img width="1336" alt="Axctivity 4 (Q3)" src="https://github.com/KareemElMaaddawy/ECE444-F2023-Lab1/assets/83250816/a9cdf148-f5cc-4262-accc-a5b600e37771">
+
+<img width="1342" alt="Activity 4 (Q4)" src="https://github.com/KareemElMaaddawy/ECE444-F2023-Lab1/assets/83250816/457c3a6c-0359-4d01-9524-25a9bbfc4720">
+
+<img width="1386" alt="Activity 4 (Q5)" src="https://github.com/KareemElMaaddawy/ECE444-F2023-Lab1/assets/83250816/83c0e84f-68bd-4781-8c4d-2d84be9e2dda">
+
+
 
