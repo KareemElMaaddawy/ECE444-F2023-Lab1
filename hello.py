@@ -13,7 +13,7 @@ moment = Moment(app)
 
 class NameForm(FlaskForm):
     name = StringField('What is your name?', validators=[DataRequired()])
-    email = EmailField('What is your Uoft Email address?', validators=[DataRequired(), Email()])
+    email = EmailField('What is your Uoft Email address?', validators=[DataRequired()])
     submit = SubmitField('Submit')
 
 @app.route('/', methods=['GET', 'POST'])
@@ -29,7 +29,7 @@ def index():
         session['name'] = form.name.data
         session['email'] = form.email.data
         return redirect(url_for('index'))
-    return render_template('index.html', form=form, name=session.get('name'), email = session.get('email'))
+    return render_template('index.html', form=form, name=session.get('name'), email=session.get('email'))
 
 @app.route('/user/<name>')
 def user(name):
